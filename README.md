@@ -11,9 +11,9 @@ I am currently learning Python for spatial analysis.
 <!--!# 📊 GitHub Stats:
 -![](https://github-readme-stats.vercel.app/api?username=Pratyush-dh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pratyush-dh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-dh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-dh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
-## 🐦 Latest Tweet
+<!--## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@dlonebat)](https://github.com/VishwaGauravIn/github-twitter-card-embed)-->
 
 ### ✍️ Random Dev Quote
