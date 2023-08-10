@@ -1,21 +1,28 @@
-# pratyush-dh.github.io
-# 💫 About Me:
-I am currently learning Python for spatial analysis.
+## Pratyush Dhungana
+
+[![GitHub Badge](https://img.shields.io/github/followers/pratyush-dh?style=social)](https://github.com/pratyush-dh?tab=followers)
+[![Website Badge](https://img.shields.io/badge/Personal-Website-green)](https://pratyush-dh.github.io/)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/pratyush-dh)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-dhungana-243129175/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@photoshant_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCXlcNzCvuppE0k0smFkURFQ) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-!# 📊 GitHub Stats:
--![](https://github-readme-stats.vercel.app/api?username=Pratyush-dh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I am a graduate of B.Sc. Forestry from the Institute of Forestry, Tribhuvan University, Nepal. My research interests lie at the intersection, of Forestry, GIS, Ecology, Remote sensing, and machine learning. I am always looking for collaboration opportunities for work or research in these fields.
 
 ---
+
+### Featured Projects
+- [Potato Disease classifier](https://pratyush-dh.github.io/diseasepotato.html): Trained a potato disease classifier using TensorFlow JS and deployed it as web 
+application.
+- [Multiclass Land Use Land Cover Classification Using TensorFlow](https://github.com/pratyush-dh/satellite-image-classification-using-python): Performed LCLU classification of Kathmandu 
+region from a Landsat 8 image using a FCNN. Prepared training data using ArcMap and automated hyper-parameter tuning using Keras Tuner.
+- [Swimming Pool Detection](https://github.com/pratyush-dh/swimming-pool-detection): Prepared training datasets using ArcMap and RoboFlow. Modified YOLOv5 model to 
+detect swimming pools. 
+- [Real-time Multi-class object detection](https://pratyush-dh.github.io/classifier.html): Applied transfer learning to a pre-trained TensorFlow model for identify common household 
+objects and deployed it as a web application.
+- [DEM to Stream Network tool](https://github.com/pratyush-dh/tools): Combined several hydrology tools in ArcGIS model builder to create a tool that 
+takes DEM, threshold value and output name as inputs and give a stream network as its output.
+
+
+	## Thank you for visiting my profile.
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
