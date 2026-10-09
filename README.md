@@ -1,73 +1,80 @@
-# Pratyush Dhungana
-
-[![GitHub Badge](https://img.shields.io/github/followers/pratyush-dh?style=social)](https://github.com/pratyush-dh?tab=followers)
-[![Website Badge](https://img.shields.io/badge/Personal-Website-green)](https://pratyush-dh.github.io/)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/pratyush-dh)
-
-## Forestry | Geospatial Analytics | Remote Sensing | Data Science
-
-I am a **forestry professional and geospatial analyst** interested in using spatial data, remote sensing, statistics, and computing to solve problems in natural resources and infrastructure.
-
-My foundation is in **forestry and forest biometrics**, but my work has increasingly moved toward building the analytical and geospatial systems that turn forest and environmental data into decisions. I work across **GIS, LiDAR, remote sensing, spatial analysis, statistical modeling, machine learning, and geospatial automation**.
-
-What interests me most is the space between a question and an answer: how data should be structured, how spatial relationships should be modeled, how uncertainty should be quantified, and how the final result can become something useful to a person making a decision.
-
-I have worked with geospatial data ranging from **satellite imagery and LiDAR to vector networks, spatial databases, and field-derived information**. My experience includes developing workflows for vegetation analysis, terrain modeling, land-cover classification, forest and biomass analysis, spatial QA/QC, and geospatial automation.
-
-I am comfortable working across the stack of a geospatial problem:
-
-**Forestry → Spatial Data → Analysis → Modeling → Automation → Decision Support**
-
-### Areas I work in
-
-* **Geospatial Analytics:** spatial analysis, suitability modeling, proximity and network analysis, spatial QA/QC, geoprocessing, cartography
-* **Remote Sensing:** Landsat, Sentinel-2, LiDAR, vegetation mapping, image classification, change analysis
-* **Forestry & Natural Resources:** forest inventory, forest biometrics, biomass estimation, vegetation management, forest carbon and MRV
-* **LiDAR:** LAS/LAZ processing, terrain and surface modeling, vegetation structure, point-cloud workflows
-* **Data Science:** statistical modeling, machine learning, uncertainty assessment, model evaluation, predictive analytics
-* **Geospatial Engineering:** Python, ArcPy, GDAL/OGR, SQL, PostGIS, REST-based geospatial services, workflow automation
-* **GIS Platforms:** ArcGIS Pro, ArcGIS Online, ArcMap, QGIS
-
-### How I approach GIS
-
-I started as a forestry student using GIS to answer questions about forests and landscapes. Over time, I became increasingly interested in what happens underneath the map: **how data moves through a system, how analytical workflows can be automated, and how geospatial tools can be designed around the decision rather than the software.**
-
-That has led me from simply using existing GIS tools toward building and improving workflows of my own, including automated geoprocessing, spatial data pipelines, LiDAR analysis, predictive modeling, and web-based geospatial applications.
-
-I don't consider myself a software engineer who happens to work with maps. I am a **forestry and geospatial professional who uses programming, statistics, and software engineering principles when they make spatial analysis more useful, scalable, and reproducible.**
-
-### Selected Work
-
-* **Vegetation & LiDAR Analytics**
-  Geospatial analysis of vegetation and LiDAR data for understanding vegetation structure, proximity to infrastructure, and potential encroachment.
-
-* **Forest Biomass & Statistical Modeling**
-  Applied forest biometrics, statistical modeling, and machine learning to investigate approaches for estimating forest biomass and evaluating model uncertainty.
-
-* [**Multiclass Land Use/Land Cover Classification**](https://github.com/pratyush-dh/satellite-image-classification-using-python)
-  Classified Landsat 8 imagery using a neural-network workflow, including training-data preparation and automated hyperparameter tuning.
-
-* [**Swimming Pool Detection**](https://github.com/pratyush-dh/swimming-pool-detection)
-  Built a computer-vision workflow using YOLOv5, demonstrating the application of deep learning to object detection from geospatial imagery.
-
-* [**DEM to Stream Network Tool**](https://github.com/pratyush-dh/tools)
-  Combined multiple ArcGIS hydrology tools into a reusable geoprocessing workflow that converts elevation data into a stream network.
-
-* [**Potato Disease Classifier**](https://pratyush-dh.github.io/diseasepotato.html)
-  Developed and deployed a TensorFlow.js classification application as an early exploration of applying machine learning to agricultural problems.
-
-### Technology
-
-`ArcGIS Pro` · `ArcGIS Online` · `QGIS` · `ArcPy` · `GDAL/OGR` · `Python` · `R` · `SQL` · `PostGIS` · `LiDAR` · `Landsat` · `Sentinel-2` · `TensorFlow` · `scikit-learn` · `Machine Learning` · `Remote Sensing` · `Spatial Statistics`
-
+# Hi, I'm Pratyush 👋
+ 
+[![Website](https://img.shields.io/badge/Portfolio-pratyush--dh.github.io-green)](https://pratyush-dh.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pratyush--dh-blue)](https://www.linkedin.com/in/pratyush-dh)
+[![Followers](https://img.shields.io/github/followers/pratyush-dh?style=social)](https://github.com/pratyush-dh?tab=followers)
+ 
+### Forest Biometrician & Geospatial Data Scientist
+ 
+I work at the intersection of **measurement, data, and real-world decisions**. Trained in forest biometrics (M.S., Mississippi State), I build GIS, remote sensing, and statistical tools that make results useful, reproducible, and defensible.
+ 
+> What do we actually know, how well do we know it, and how can we turn that knowledge into something useful?
+ 
+```
+Forestry  →  Spatial data  →  Analysis  →  Modeling  →  Automation  →  Decision support
+```
+ 
+Based in Florida (Open to relocation) , originally from Nepal 🇳🇵
+ 
 ---
-
-### What I'm Interested In
-
-I am particularly interested in opportunities where **forestry, geospatial technology, remote sensing, and data science intersect**, including:
-
-**Forest Analytics · Forest Carbon · MRV · Timberland Analytics · Precision Forestry · LiDAR · Vegetation Management · Remote Sensing · Geospatial Data Engineering · Enterprise GIS · Spatial Decision Support**
-
-I am open to collaborating on research, open-source projects, and applied geospatial problems where better use of spatial data can lead to better decisions.
-
-Thanks for visiting.
+ 
+## 🔭 What I work on
+ 
+| Area | Focus |
+|---|---|
+| 🌲 **Forest biometrics** | Forest inventory, growth & yield, height–diameter modeling, small area estimation, mixed-effects and ML models on plot data, biomass and carbon |
+| 🛰️ **Remote sensing & LiDAR** | LAS/LAZ processing, canopy and vegetation structure, land-cover classification, change detection |
+| 🗺️ **Operational GIS** | Geodatabase and schema design, feature/REST services, spatial QA/QC, cartography |
+| ⚙️ **Geospatial automation** | Python/ArcPy/R pipelines, custom toolboxes, spatial databases (PostGIS, SQLite, R-tree indexing) |
+| 🌐 **Decision support** | Interactive web maps and apps (R Shiny, React, D3, three.js, MapLibre), technical briefings |
+ 
+---
+ 
+## ⭐ Selected work
+ 
+### Interactive apps & web maps
+- 🌳 [**3D Forest Height Studio**](https://github.com/pratyush-dh/3d-forest-height-studio): Open-source R Shiny + three.js app that turns ETH Zurich 10 m canopy-height data into interactive 3D forest maps for any country or region, with PNG, GeoTIFF, and embeddable web-page export.
+- 🌧️ [**Rainfall Relief & Pulse**](https://pratyush-dh.github.io/projects/rainfall-relief/pulse.html): US precipitation drawn as terrain beside real elevation, with a 30-year animation where wet years swell and droughts sink (three.js, MapLibre GL, PRISM).
+- 🛰️ [**Carbon Data Atlas**](https://pratyush-dh.github.io/carbon-data-atlas/): Open atlas cataloging 16 satellite, model, inventory, and ground-based CO₂/CH₄/N₂O datasets, with a guided explorer and coverage maps (React, Vite, D3).
+- 🌲 **US Forest Inventory Explorer**: Interactive explorer built on live USDA FIA data ([portfolio](https://pratyush-dh.github.io/)).
+### Forest biometrics research (FIA series)
+Public write-ups with reproducible code, built on PostgreSQL/PostGIS, SQLite, and Python:
+- 📏 [**FIA tree-height codes: crews vs. a height model**](https://pratyush-dh.github.io/projects/blog/): Species × ecodivision height–diameter models trained on 11.8M measured trees to evaluate ~200,000 crew-reconstructed heights on broken-top trees. Found and diagnosed a spurious stump-height artifact by simulation.
+- 🔍 [**Part 2: FIA's own height model**](https://pratyush-dh.github.io/projects/blog/htcd4/): Checks FIA's undocumented HTCD 4 model against a remeasurement-based benchmark.
+- 🍃 [**Part 3: Carbon density by ecoregion**](https://pratyush-dh.github.io/projects/blog/carbon-by-ecoregion/): Design-based estimates across 35 ecodivisions, with a ~29-fold regional spread traced back to FIA's sample design.
+### Cartography
+Kathmandu Valley relief · Myagdi topographic map · US wood-products mills · Airports & flight routes · Web Mercator vs. Equal Earth explorer. See them all in the [portfolio](https://pratyush-dh.github.io/).
+ 
+### Machine learning & remote sensing
+- 🗺️ [**Multiclass LULC classification**](https://github.com/pratyush-dh/satellite-image-classification-using-python): Landsat 8 neural-network classifier with training-data prep and automated hyperparameter tuning.
+- 🏊 [**Swimming pool detection**](https://github.com/pratyush-dh/swimming-pool-detection): YOLOv5 object detection on geospatial imagery.
+- 🥔 [**Potato disease classifier**](https://pratyush-dh.github.io/diseasepotato.html): TensorFlow.js app running in the browser.
+### Tooling
+- 💧 [**DEM to stream network tool**](https://github.com/pratyush-dh/tools): Several ArcGIS hydrology tools chained into one reusable geoprocessing workflow.
+---
+ 
+## 🏗️ Applied experience
+ 
+- Automated processing of **14,000+ LiDAR tiles** with Python/ArcPy for utility-corridor vegetation volume analysis.
+- Built a full-stack **LiDAR retrieval app** (Python, R Shiny, SQLite, R-tree) that cut multi-day data staging to minutes.
+- Co-led a **38,616+ mile positional-accuracy assessment** of utility network data using LiDAR-derived ground truth.
+- Thesis: **Small area estimation methods** for county-level forest biomass (Mississippi and Minnesota).
+---
+ 
+## 🧰 Tools
+ 
+**Languages:** `Python` `R` `SQL` `JavaScript`
+ 
+**Geospatial:** `GDAL/OGR` `rasterio` `terra` `lidR` `geopandas` `PDAL` `PostGIS` `QGIS` `ArcGIS Pro` `ArcPy` `Google Earth Engine`
+ 
+**Data science & web:** `scikit-learn` `mlr` `TensorFlow` `R Shiny` `React` `D3` `three.js` `MapLibre GL`
+ 
+---
+ 
+## 🤝 Open to
+ 
+Roles and collaborations in GIS (utility and forestry), forestry data science, forest carbon and MRV, and timberland analytics, plus open-source and research projects.
+ 
+📫 [Portfolio](https://pratyush-dh.github.io/) · [LinkedIn](https://www.linkedin.com/in/pratyush-dh) · [CV (PDF)](https://pratyush-dh.github.io/assets/cv/Pratyush-Dhungana-CV.pdf)
+ 
+*Seek progress, not perfection.*
